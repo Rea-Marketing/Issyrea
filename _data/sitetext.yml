@@ -84,6 +84,12 @@ Ideal for couples or small families, our Beachside Gallery apartment offers a fa
 There is no parking space on site. Guests can park up at the nearby M&S to unload and park at the Pavillon Theatre which is a 5 minute walk away."
     section: about
 
+portfolio2:
+    title: "Rooms"
+    #text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
+    closebutton: "Close"
+
   clients:
     section: clients
     max-height: 100px
