@@ -38,12 +38,12 @@ en: &DEFAULT_EN
     closebutton: "Close"
 
   #timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: timeline
+    #title: "Timeline"
+    #text: "Lorem ipsum timeline"
+    #section: timeline
     # left is the default
     #start_align: "left"
-    events:
+    #events:
       - title: "Our Humble Beginnings"
         year: "2009-2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
@@ -66,11 +66,11 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    #end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "Apartment"
-    text: "our story"
+    #text: "our story"
     body: "This 2nd-floor apartment offers stunning views of Weymouth beach and the bay, perfect for those looking to stay right by the sea. From the moment you enter, the apartment offers direct views out to the ocean, creating a relaxing atmosphere for your holiday.<br /><br />
     
 The living space is open-plan, allowing you to enjoy the beautiful beach and seafront views whether you're cooking, dining, or just relaxing. The apartment features two bedrooms (sleeps four), a high-spec kitchen, and a modern bathroom, all designed with comfort and style in mind.<br /><br />
