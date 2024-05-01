@@ -18,8 +18,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Beachside Gallery Weymouth
 email      : issyrea@yahoo.co.uk #this is also the email contact forms will go to
-description: "Beachside Gallery Apartment in Weymouth with Beautiful Views along the Beach"
-author     : Izzy Rea
+description: "Beachside Gallery Apartment in Weymouth with Beautiful Views Along the Beach"
+author     : Issy Rea
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
