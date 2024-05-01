@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Seafront Holiday Home
     text: Beachside Gallery Weymouth
-    #button: Tell Me More
-    #buttonlink: "#services"
+    button: Tell Me More
+    buttonlink: "#services"
 
   services:
     title: "Services"
