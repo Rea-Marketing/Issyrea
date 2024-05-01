@@ -27,15 +27,15 @@ en: &DEFAULT_EN
       - title: "[Airbnb](https://www.airbnb.co.uk/rooms/1101588185363550127?search_mode=regular_search&check_in=2024-11-12&check_out=2024-11-16&source_impression_id=p3_1712331382_%2BAMPnZkUUw9ZVWoI&previous_page_section_name=1000&federated_search_id=5e083cf5-bfcf-433d-aabc-9620e9b24fb4)"
         #desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Contact Me](https://rea-marketing.github.io/Issyrea.github.io/#contact)"
+      - title: "[Contact Me](https://rea-marketing.github.io/Issyrea/#contact)"
         #desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Rooms"
+    #text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"
