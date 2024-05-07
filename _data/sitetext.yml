@@ -85,7 +85,25 @@ Ideal for couples or small families, our Beachside Gallery apartment offers a fa
 There is no parking space on site. Guests can park up at the nearby M&S to unload and park at the Pavillon Theatre which is a 5 minute walk away."
     section: about
 
-    team:
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "envato"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "designmodo"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "themeforest"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
+
+  team:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
@@ -121,6 +139,7 @@ There is no parking space on site. Guests can park up at the nearby M&S to unloa
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+
 
   contact:
     title: "Contact Me"
