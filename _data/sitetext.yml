@@ -104,14 +104,14 @@ There is no parking space on site. Guests can park up at the nearby M&S to unloa
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Booking"
+    #text: "Lorem ipsum dolor sit amet consectetur."
+    #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Airbnb"
+        #role: "Lead Designer"
+        image: https://seeklogo.com/images/A/airbnb-logo-7F4086530F-seeklogo.com.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
