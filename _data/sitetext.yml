@@ -112,7 +112,7 @@ There is no parking space on site. Guests can park up at the nearby M&S to unloa
       - name: "[Airbnb]"
         #role: "Lead Designer"
         image: https://seeklogo.com/images/A/airbnb-logo-7F4086530F-seeklogo.com.png
-        #social:
+        social:
           - #url: https://twitter.com
             #icon: fab fa-twitter
           - #url: https://facebook.com
