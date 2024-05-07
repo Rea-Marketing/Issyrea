@@ -109,10 +109,10 @@ There is no parking space on site. Guests can park up at the nearby M&S to unloa
     #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Airbnb"
+      - name: "[Airbnb](https://www.airbnb.co.uk/rooms/1101588185363550127?search_mode=regular_search&check_in=2024-11-12&check_out=2024-11-16&source_impression_id=p3_1712331382_%2BAMPnZkUUw9ZVWoI&previous_page_section_name=1000&federated_search_id=5e083cf5-bfcf-433d-aabc-9620e9b24fb4)"
         #role: "Lead Designer"
         image: https://seeklogo.com/images/A/airbnb-logo-7F4086530F-seeklogo.com.png
-        social:
+        #social:
           - url: https://twitter.com
             icon: fab fa-twitter
           - url: https://facebook.com
