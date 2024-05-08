@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-shopping-cart
       - title: "[Contact Me](mailto:issyrea@yahoo.co.uk)"
         #desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        #icon: fab fa-markdown
 
 
   portfolio:
