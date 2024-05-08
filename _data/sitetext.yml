@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
 
   portfolio:
-    title: "Rooms and Town"
+    #title: "Rooms and Town"
     #text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close"
