@@ -1,12 +1,12 @@
 ---
 title: Beach
 #subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img//Local-Landscapes-Isobel-DRP(15) (Custom).jpg
+image: assets/img//IsobelBeach.jpg
 alt: 
 
 caption:
   title: Beach
   subtitle: 
-  thumbnail: assets/img//Local-Landscapes-Isobel-DRP(15) (Custom).jpg
+  thumbnail: assets/img//IsobelBeach.jpg
 ---
 
