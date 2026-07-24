@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     #text: "Lorem ipsum"
     section: services
     list:
-      - title: "[Booking.com](https://www.booking.com/hotel/gb/beachside-gallery-flat-weymouth.en-gb.html?label=gen173bo-1DCAsoUEIfYmVhY2hzaWRlLWdhbGxlcnktZmxhdC13ZXltb3V0aEgzWANoUIgBAZgBCbgBGMgBDNgBA-gBAYgCAZgCBqgCBLgCt7HAsAbAAgHSAiRlNWU2ZWQ4NC1kYWQ3LTRiMGUtODQ0Yi1mZjYzOGQyNDJmYmTYAgTgAgE&sid=95b4ae0672eedf284a5781c3349b091b&dist=0&keep_landing=1&sb_price_type=total&type=total&)"
+      - title: "[Host&Stay.co.uk](https://www.booking.com/hotel/gb/beachside-gallery-flat-weymouth.en-gb.html?label=gen173bo-1DCAsoUEIfYmVhY2hzaWRlLWdhbGxlcnktZmxhdC13ZXltb3V0aEgzWANoUIgBAZgBCbgBGMgBDNgBA-gBAYgCAZgCBqgCBLgCt7HAsAbAAgHSAiRlNWU2ZWQ4NC1kYWQ3LTRiMGUtODQ0Yi1mZjYzOGQyNDJmYmTYAgTgAgE&sid=95b4ae0672eedf284a5781c3349b091b&dist=0&keep_landing=1&sb_price_type=total&type=total&)"
         #desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         #icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
 
