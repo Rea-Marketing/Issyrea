@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         #desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         #icon: fas fa-shopping-cart
       - title: '<a href="#" id="contact-link">Contact Me</a><script>document.getElementById("contact-link").href = "mailto:" + "issyrea" + "@" + "yahoo.co.uk";</script>'
-      - title: "[Contact Me](mailto:issyrea@yahoo.co.uk)"
+#      - title: "[Contact Me](mailto:issyrea@yahoo.co.uk)"
         #desc: "Your description here, full **Markdown** support"
         #icon: fab fa-markdown
 
